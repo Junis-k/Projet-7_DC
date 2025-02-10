@@ -1,0 +1,27 @@
+body {
+    background-image: url('D:\Master Data Science\Master 1 - DIT\Data Collection\Projet 7_DC-KRA Léandre\Image_2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Arial', sans-serif; /* Police */
+    color: #ffffff /* Couleur du texte */
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffcc00; /* Couleur des titres */
+}
+
+p {
+    color: #ffffff; /* Couleur des paragraphes */
+}
+
+a {
+    color: #00ccff; /* Couleur des liens */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
